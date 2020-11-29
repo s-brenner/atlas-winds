@@ -13,8 +13,6 @@ I'm a 747 First Officer and wrote this iOS app as a hobby. Send feedback to me [
 
 ### Legal Stuff
 
-[Atlas Winds and Your Data](https://s-brenner.github.io/atlas-winds/data)
-
 [Privacy Policy](https://s-brenner.github.io/atlas-winds/privacy)
 
 [Terms of Service](https://s-brenner.github.io/atlas-winds/terms)

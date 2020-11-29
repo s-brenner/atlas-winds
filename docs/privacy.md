@@ -51,4 +51,4 @@ If Scott Brenner makes changes to any terms or conditions of this privacy policy
 
 If you have any additional questions or concerns about this policy or our information practices, please feel free to contact me at any time at [brenner.scott.980@icloud.com](mailto:brenner.scott.980@icloud.com).
 
-Last updated June 7, 2020
+Last updated November 29, 2020

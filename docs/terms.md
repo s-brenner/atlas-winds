@@ -10,11 +10,11 @@ To use some services available on the App, you must complete the membership regi
 
 ## Payments
 
-Atlas Winds is available only for iOS with payment due at the time of purchase.
+Starting with iOS 15, Atlas Winds is available to download free of charge.
 
 ## Fees and Renewals
 
-Atlas Winds does not require any additional fees or renewals after initial purchase. ALL PURCHASES ARE FINAL AND NO REFUND WILL BE GIVEN.
+Atlas Winds requires an autorenewing subscription available for sale within the app. ALL PURCHASES ARE FINAL AND NO REFUND WILL BE GIVEN.
 
 ## User Conduct
 

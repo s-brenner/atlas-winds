@@ -14,7 +14,7 @@ Starting with iOS 15, Atlas Winds is available to download free of charge.
 
 ## Fees and Renewals
 
-Atlas Winds requires an autorenewing subscription available for sale within the app. ALL PURCHASES ARE FINAL AND NO REFUND WILL BE GIVEN.
+Atlas Winds requires an autorenewing subscription available for sale within the app. Pricing is subject to change without notice. ALL PURCHASES ARE FINAL AND NO REFUND WILL BE GIVEN BY ME. Contact Apple directly with refund requests.
 
 ## User Conduct
 

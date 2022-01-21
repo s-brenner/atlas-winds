@@ -1,12 +1,14 @@
 ## Welcome to Atlas Winds
 
-Atlas Winds is designed for pilots of Atlas Air and Southern Air to easily calculate the landing wind additive in accordance with company guidance. [Download Atlas Winds](https://apps.apple.com/us/app/atlas-winds/id1458439441) if you hate public math too.
+Atlas Winds is designed for Atlas Air pilots to easily calculate the landing wind additive in accordance with company guidance. [Download Atlas Winds](https://apps.apple.com/us/app/atlas-winds/id1458439441) if you hate public math too.
 
 ### Features
+- Calculate approach wind additives for 737, 747, 767 and 777
+- Input the wind in knots or meters per second
 
-- Select airport, weather and runway OR manually enter the runway heading and wind parameters
-- Approach wind additives for 737, 747, 767 and 777
-- Input the wind in meters per second if desired
+### Data Entry Methods
+- If online, select the airport, download current METAR and TAF, select the wind, and finally select the landing runway
+- Manually enter the runway heading, wind direction, wind speed, and wind gust
 
 ### About the Developer
 
